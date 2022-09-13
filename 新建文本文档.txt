@@ -1,0 +1,3 @@
+git config --global user.name “GitHub用户名”
+
+       git config --global user.email “注册GitHub用到的邮箱”
